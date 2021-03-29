@@ -9,12 +9,12 @@ export default function App() {
         <Weather />
         <footer>
           This project was coded by Cathrina Hao and is {""}
-          <a
+          <span
             href="https://github.com/cathrinahwj/react-project"
             target="_blank"
           >
             open-sourced on GitHub
-          </a>
+          </span>
         </footer>
       </div>
     </div>
